@@ -1,0 +1,97 @@
+body{
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    /*background-image: ../img/logo.jpg;*/
+    width: 40%;
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 45px;
+    padding: 10px;
+}
+h2{
+    font-family: 'Young Serif', serif;
+}
+
+input{
+    margin-bottom:10px ;
+    width: 60%;
+    padding: 5px;
+    font-family: 'Young Serif', serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+button{
+border: none;
+padding: 10px;
+width: 40%;
+font-weight: bold;
+font-size: 15px;
+background: #1AC15C;
+cursor: pointer;
+font-family: 'Young Serif', serif;
+margin-bottom: 15px;
+}
+label{
+    padding: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+    background: #1F87CF;
+    font-family: 'Young Serif', serif;
+    color: #fff;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Young Serif', serif;
+    font-weight: bold;
+    color: tomato;
+}
+
+.card{
+    float: right;
+    margin-top: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 18rem;
+    box-shadow: 2px 2px 10px rgb(135, 115, 115);
+    background: #fff;
+    border-radius: 7%;
+}
+.card img{
+    width: 100%;
+    height: 200px;
+}
+
+main{
+    width: 60%;
+}
+
+
+
+.val{
+    display: none;
+}
+
+.head{
+    width: 30%;
+    padding: 20px;
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 50px;
+}
+
+.row{
+    width: 40%;
+    margin-top: 30px;
+}
+
+table{
+    box-shadow: 1px 1px 10px silver;
+}
+
+#main{
+    background: #1AC15C;
+}
